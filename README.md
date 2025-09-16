@@ -267,6 +267,7 @@ To build a consistent and reusable UI for the Airbnb clone app, we will create a
 - Search bar with autocomplete (location, dates, guests).
 - User dropdown with avatar, wishlist heart icon, and logout option.
 - Language/currency selector for global accessibility.
+
 **Styles:** Uses Inter font (600 weight, 16px for links), #FFFFFF background, #FF5A5F for active/hover states, and subtle shadow (#000000 10% opacity).
 **Accessibility:** Keyboard-navigable links, ARIA labels for icons, and high contrast ratios (e.g., #222222 text on #FFFFFF background).
 **Role in UX:** Ensures seamless navigation and quick access to core actions (search, account management), maintaining consistency across devices while reducing user effort.
