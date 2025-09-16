@@ -177,3 +177,72 @@ Identifying design properties like colors and typography from a Figma mockup is 
 
 ### Importance of User-Friendly Design in a Booking System
 In a booking system like this Airbnb clone, user-friendly design is paramount because it directly impacts conversion rates, user retention, and revenue. A cluttered or confusing interface can lead to high cart abandonment—studies show up to 70% of users drop off during checkout due to poor UX. By prioritizing clarity (e.g., prominent CTAs and micro-interactions like loading spinners), we foster trust, especially for high-stakes decisions involving payments and personal data. This not only reduces support queries but also encourages positive reviews and repeat visits, turning one-time browsers into loyal customers. Ultimately, empathetic design aligns with Airbnb's ethos of "belonging anywhere," ensuring the app feels welcoming and reliable for global users.
+
+## Project Roles and Responsibilities
+To ensure the successful development of the Airbnb clone app, the project team is structured with clearly defined roles. Each role contributes uniquely to delivering a high-quality, user-centric product. Below is a list of roles, their key responsibilities, and how they drive the project’s success.
+
+#### 1. Project Manager
+##### Responsibilities:
+- Oversee project timeline, scope, and resource allocation.
+- Coordinate between team members to ensure alignment on goals and deliverables.
+- Manage risks, resolve blockers, and track progress using tools like Jira or Trello.
+- Communicate updates to stakeholders and ensure milestones are met.
+**Contribution to Success:** The Project Manager ensures the project stays on track, within budget, and meets deadlines, enabling the team to deliver a cohesive app by facilitating collaboration and resolving conflicts efficiently.
+
+#### 2. Frontend Developers
+##### Responsibilities:
+- Implement the UI for Property Listing, Detailed, and Checkout Views using React and Tailwind CSS.
+- Ensure responsive design across devices (mobile, tablet, desktop).
+- Integrate APIs for search, authentication, and booking functionality.
+- Optimize client-side performance (e.g., lazy loading images, minimizing re-renders).
+**Contribution to Success:** Frontend Developers bring the Figma designs to life, creating an intuitive and visually appealing interface that drives user engagement and retention.
+
+#### 3. Backend Developers
+##### Responsibilities:
+- Design and implement RESTful APIs for property data, user management, and payments.
+- Manage database schema (e.g., PostgreSQL or MongoDB) for listings, bookings, and reviews.
+- Ensure secure authentication (e.g., JWT, OAuth) and data validation.
+- Optimize server-side performance and scalability for high traffic.
+**Contribution to Success:** Backend Developers provide the robust, secure infrastructure needed for seamless data handling, ensuring the app is reliable and scalable for global users.
+
+#### 4. Designers
+##### Responsibilities:
+- Create and refine Figma mockups for the three primary pages, incorporating feedback.
+- Define the design system (colors, typography, components) for consistency.
+- Conduct user research to validate UX decisions (e.g., usability testing).
+- Collaborate with frontend developers to ensure design fidelity in implementation.
+**Contribution to Success:** Designers craft a user-friendly and visually cohesive experience, aligning with Airbnb’s brand ethos and reducing friction in the booking process.
+
+#### 5. QA/Testers
+##### Responsibilities:
+- Write and execute test cases for functionality, usability, and performance.
+- Perform cross-browser and cross-device testing to ensure compatibility.
+- Identify and document bugs using tools like Bugzilla or GitHub Issues.
+- Verify accessibility compliance (e.g., WCAG AA standards).
+**Contribution to Success:** QA/Testers ensure the app is bug-free, accessible, and delivers a polished experience, minimizing user frustration and post-launch fixes.
+
+#### 6. DevOps Engineers
+##### Responsibilities:
+- Set up CI/CD pipelines for automated testing and deployment (e.g., GitHub Actions, Jenkins).
+- Manage cloud infrastructure (e.g., AWS, Heroku) for hosting and scalability.
+- Monitor app performance and uptime using tools like New Relic or Datadog.
+- Ensure security best practices (e.g., SSL, environment variable management).
+**Contribution to Success:** DevOps Engineers enable smooth, reliable deployments and maintain app availability, ensuring a seamless experience for users even under high demand.
+
+#### 7. Product Owner
+##### Responsibilities:
+- Define the product vision and prioritize features in the backlog.
+- Gather requirements from stakeholders and translate them into user stories.
+- Validate deliverables against user needs and business goals.
+- Act as the primary liaison between the team and external stakeholders.
+**Contribution to Success:** The Product Owner ensures the app aligns with user expectations and business objectives, guiding the team toward a market-ready product.
+
+#### 8. Scrum Master
+##### Responsibilities:
+- Facilitate agile ceremonies (sprint planning, daily standups, retrospectives).
+- Remove impediments to team progress and foster a collaborative environment.
+- Coach the team on agile best practices to improve efficiency.
+- Track sprint velocity and ensure iterative delivery of features.
+**Contribution to Success:** The Scrum Master drives agile discipline, enabling the team to work efficiently, adapt to changes, and deliver incremental value throughout development.
+
+These roles collectively ensure the Airbnb clone app is delivered on time, meets user needs, and maintains high quality, aligning with the project’s goal of replicating Airbnb’s seamless booking experience.
