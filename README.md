@@ -253,9 +253,11 @@ To ensure the successful development of the Airbnb clone app, the project team i
 
 **Contribution to Success:** The Scrum Master drives agile discipline, enabling the team to work efficiently, adapt to changes, and deliver incremental value throughout development.
 
+These roles collectively ensure the Airbnb clone app is delivered on time, meets user needs, and maintains high quality, aligning with the project’s goal of replicating Airbnb’s seamless booking experience.
+
 ## UI Component Patterns
 
-To build a consistent and reusable UI for the Airbnb clone app, we will create a set of core UI components that align with the design system (colors, typography, and layouts) and support the functionality of the three primary pages (Property Listing View, Listing Detailed View, and Simple Checkout View). These components will be implemented in React with Tailwind CSS to ensure responsiveness, accessibility, and maintainability. Below, we describe three key components: Navbar, Property Card, and Footer, outlining their purpose, structure, and role in enhancing the user experience.
+To build a consistent and reusable UI for the Airbnb clone app, we will create a set of core UI components that align with the design system (colors, typography, and layouts) and support the functionality of the three primary pages (Property Listing View, Listing Detailed View, and Simple Checkout View). These components will be implemented in React with Tailwind CSS to ensure responsiveness, accessibility, and maintainability. Below, we describe three key components: **Navbar**, **Property Card**, and **Footer**, outlining their purpose, structure, and role in enhancing the user experience.
 
 ### Navbar
 **Purpose:** The Navbar serves as the primary navigation hub, providing access to key app features (e.g., search, user profile, wishlist) across all pages.
@@ -268,131 +270,40 @@ To build a consistent and reusable UI for the Airbnb clone app, we will create a
 - User dropdown with avatar, wishlist heart icon, and logout option.
 - Language/currency selector for global accessibility.
 
-**Styles:** Uses Inter font (600 weight, 16px for links), #FFFFFF background, #FF5A5F for active/hover states, and subtle shadow (#000000 10% opacity).
-**Accessibility:** Keyboard-navigable links, ARIA labels for icons, and high contrast ratios (e.g., #222222 text on #FFFFFF background).
+**Styles:** Uses Inter font (600 weight, 16px for links), #FFFFFF background, #FF5A5F for active/hover states, and subtle shadow (#000000 10% opacity). <br>
+**Accessibility:** Keyboard-navigable links, ARIA labels for icons, and high contrast ratios (e.g., #222222 text on #FFFFFF background). <br>
 **Role in UX:** Ensures seamless navigation and quick access to core actions (search, account management), maintaining consistency across devices while reducing user effort.
 
-
-
-Property Card
-
-
-
-
-
-Purpose: Displays a concise summary of a property in the Property Listing View, enticing users to click for more details.
-
-
-
-Structure:
-
-
-
-
-
-Layout: Rectangular card with rounded corners, featuring a thumbnail image, title, price, rating, and location badge.
-
-
-
-Elements:
-
-
-
-
-
-Image (lazy-loaded, 300x200px, clickable to Listing Detailed View).
-
-
-
-Title (H3, Inter 600, 18px, e.g., “Cozy Beachfront Villa”).
-
-
-
-Price (Body Small, Inter 400, 14px, e.g., “$120/night”).
-
-
-
-Rating (5-star system with decimal, e.g., “4.8 (120 reviews)”).
-
-
-
-Wishlist heart icon (toggleable, #FF5A5F when active).
-
-
-
-Location badge (e.g., “Miami, FL” with #006CFF background).
-
-
-
-Styles: #F7F7F7 card background, #222222 for primary text, #484848 for secondary text, and hover effect with subtle scale transform.
-
-
-
-Accessibility: Alt text for images, ARIA labels for interactive elements, and focus states for keyboard navigation.
-
-
-
-Role in UX: Provides a visually appealing, scannable summary that encourages exploration while conveying key information (price, rating) at a glance, driving conversions.
-
-
-
-Footer
-
-
-
-
-
-Purpose: Offers supplementary navigation, legal information, and trust signals to enhance credibility and accessibility.
-
-
-
-Structure:
-
-
-
-
-
-Desktop Layout: Multi-column layout with sections for About, Support, Policies, and Social links.
-
-
-
-Mobile Layout: Stacked sections with collapsible accordions for space efficiency.
-
-
-
-Elements:
-
-
-
-
-
-Links to About, Contact, Terms, and Privacy pages (Inter 400, 14px).
-
-
-
-Social media icons (e.g., Twitter, Instagram) with #006CFF hover states.
-
-
-
-Language/currency selector (dropdown, reusable from Navbar).
-
-
-
-Copyright notice (e.g., “© 2025 Airbnb Clone”).
-
-
-
-Styles: #222222 background, #FFFFFF text for contrast, #FF5A5F for hover links, and Inter font (400 weight, 14px for links).
-
-
-
-Accessibility: ARIA-expanded attributes for accordions, keyboard-navigable links, and sufficient padding for touch targets.
-
-
-
-Role in UX: Reinforces trust with clear access to policies and support, while providing secondary navigation options, ensuring users feel secure and informed.
+### Property Card
+**Purpose:** Displays a concise summary of a property in the Property Listing View, enticing users to click for more details.
+#### Structure:
+**Layout:** Rectangular card with rounded corners, featuring a thumbnail image, title, price, rating, and location badge.
+#### Elements:
+- Image (lazy-loaded, 300x200px, clickable to Listing Detailed View).
+- Title (H3, Inter 600, 18px, e.g., “Cozy Beachfront Villa”).
+- Price (Body Small, Inter 400, 14px, e.g., “$120/night”).
+- Rating (5-star system with decimal, e.g., “4.8 (120 reviews)”).
+- Wishlist heart icon (toggleable, #FF5A5F when active).
+- Location badge (e.g., “Miami, FL” with #006CFF background).
+
+**Styles:** #F7F7F7 card background, #222222 for primary text, #484848 for secondary text, and hover effect with subtle scale transform. <br>
+**Accessibility:** Alt text for images, ARIA labels for interactive elements, and focus states for keyboard navigation. <br>
+**Role in UX:** Provides a visually appealing, scannable summary that encourages exploration while conveying key information (price, rating) at a glance, driving conversions.
+
+### Footer
+**Purpose:** Offers supplementary navigation, legal information, and trust signals to enhance credibility and accessibility.
+#### Structure:
+**Desktop Layout:** Multi-column layout with sections for About, Support, Policies, and Social links. <br>
+**Mobile Layout:** Stacked sections with collapsible accordions for space efficiency.
+#### Elements:
+- Links to About, Contact, Terms, and Privacy pages (Inter 400, 14px).
+- Social media icons (e.g., Twitter, Instagram) with #006CFF hover states.
+- Language/currency selector (dropdown, reusable from Navbar).
+- Copyright notice (e.g., “© 2025 Airbnb Clone”).
+
+**Styles:** #222222 background, #FFFFFF text for contrast, #FF5A5F for hover links, and Inter font (400 weight, 14px for links). <br>
+**Accessibility:** ARIA-expanded attributes for accordions, keyboard-navigable links, and sufficient padding for touch targets. <br>
+**Role in UX:** Reinforces trust with clear access to policies and support, while providing secondary navigation options, ensuring users feel secure and informed.
 
 These components will be developed as reusable React components, styled with Tailwind CSS to match the design system (#FF5A5F accents, Inter font, etc.), and tested for responsiveness and accessibility. They form the building blocks for the app’s UI, ensuring consistency across pages and supporting the seamless booking experience outlined in the design goals.
-T
 
-hese roles collectively ensure the Airbnb clone app is delivered on time, meets u
