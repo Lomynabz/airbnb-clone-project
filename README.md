@@ -56,7 +56,7 @@ By completing this project, you will:
 ### Primary Pages
 | Page | Description |
 | :------ | ------: |
-| 'Property Listing View' | 'Grid display of available properties with filters' |
+| Property Listing View | Grid display of available properties with filters
 Listing Detailed View
 Complete property details with images and booking form
 Simple Checkout View
