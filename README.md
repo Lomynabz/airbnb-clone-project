@@ -134,12 +134,9 @@ The app's core flow revolves around three primary pages, each designed to guide 
 | Page Name | Description | Key UI/UX Elements | 
 | :------ | :------ | :------ |
 | **Property Listing View** | A searchable grid or list view displaying available properties based on user queries, serving as the entry point for discovery. | - Infinite scroll or pagination for listings. <br>- Hero search bar with autocomplete. <br>- Card-based layout with thumbnail images, price, rating stars, and location badges. <br>- Filter sidebar (e.g., sliders for price, toggles for amenities). |
+| **Listing Detailed View** | An immersive page providing in-depth information on a selected property to help users evaluate and decide. | - Full-screen image carousel with zoom. <br>- Tabbed sections for description, amenities, house rules, and host info. <br>- Interactive map with nearby attractions. <br>- Review carousel with photos and ratings. <br>- "Book Now" CTA button with availability calendar. |
 
-- Listing Detailed ViewAn immersive page providing in-depth information on a selected property to help users evaluate and decide.- Full-screen image carousel with zoom.
-- Tabbed sections for description, amenities, house rules, and host info.
-- Interactive map with nearby attractions.
-- Review carousel with photos and ratings.
-- "Book Now" CTA button with availability calendar.Simple Checkout ViewA streamlined, multi-step form for finalizing bookings, focusing on minimal distractions to encourage completion.- Progress indicator for steps (dates, guests, payment).
+Simple Checkout ViewA streamlined, multi-step form for finalizing bookings, focusing on minimal distractions to encourage completion.- Progress indicator for steps (dates, guests, payment).
 - Calendar picker for check-in/out.
 - Guest count dropdowns with real-time price updates.
 - Secure payment form with saved card options.
