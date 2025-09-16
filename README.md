@@ -186,7 +186,7 @@ To ensure the successful development of the Airbnb clone app, the project team i
 - Oversee project timeline, scope, and resource allocation.
 - Coordinate between team members to ensure alignment on goals and deliverables.
 - Manage risks, resolve blockers, and track progress using tools like Jira or Trello.
-- Communicate updates to stakeholders and ensure milestones are met. <br>
+- Communicate updates to stakeholders and ensure milestones are met.
 
 **Contribution to Success:** The Project Manager ensures the project stays on track, within budget, and meets deadlines, enabling the team to deliver a cohesive app by facilitating collaboration and resolving conflicts efficiently.
 
@@ -195,7 +195,7 @@ To ensure the successful development of the Airbnb clone app, the project team i
 - Implement the UI for Property Listing, Detailed, and Checkout Views using React and Tailwind CSS.
 - Ensure responsive design across devices (mobile, tablet, desktop).
 - Integrate APIs for search, authentication, and booking functionality.
-- Optimize client-side performance (e.g., lazy loading images, minimizing re-renders). <br>
+- Optimize client-side performance (e.g., lazy loading images, minimizing re-renders).
 
 **Contribution to Success:** Frontend Developers bring the Figma designs to life, creating an intuitive and visually appealing interface that drives user engagement and retention.
 
@@ -214,6 +214,7 @@ To ensure the successful development of the Airbnb clone app, the project team i
 - Define the design system (colors, typography, components) for consistency.
 - Conduct user research to validate UX decisions (e.g., usability testing).
 - Collaborate with frontend developers to ensure design fidelity in implementation.
+
 **Contribution to Success:** Designers craft a user-friendly and visually cohesive experience, aligning with Airbnb’s brand ethos and reducing friction in the booking process.
 
 #### 5. QA/Testers
@@ -222,6 +223,7 @@ To ensure the successful development of the Airbnb clone app, the project team i
 - Perform cross-browser and cross-device testing to ensure compatibility.
 - Identify and document bugs using tools like Bugzilla or GitHub Issues.
 - Verify accessibility compliance (e.g., WCAG AA standards).
+
 **Contribution to Success:** QA/Testers ensure the app is bug-free, accessible, and delivers a polished experience, minimizing user frustration and post-launch fixes.
 
 #### 6. DevOps Engineers
@@ -230,6 +232,7 @@ To ensure the successful development of the Airbnb clone app, the project team i
 - Manage cloud infrastructure (e.g., AWS, Heroku) for hosting and scalability.
 - Monitor app performance and uptime using tools like New Relic or Datadog.
 - Ensure security best practices (e.g., SSL, environment variable management).
+
 **Contribution to Success:** DevOps Engineers enable smooth, reliable deployments and maintain app availability, ensuring a seamless experience for users even under high demand.
 
 #### 7. Product Owner
@@ -238,6 +241,7 @@ To ensure the successful development of the Airbnb clone app, the project team i
 - Gather requirements from stakeholders and translate them into user stories.
 - Validate deliverables against user needs and business goals.
 - Act as the primary liaison between the team and external stakeholders.
+
 **Contribution to Success:** The Product Owner ensures the app aligns with user expectations and business objectives, guiding the team toward a market-ready product.
 
 #### 8. Scrum Master
@@ -246,6 +250,7 @@ To ensure the successful development of the Airbnb clone app, the project team i
 - Remove impediments to team progress and foster a collaborative environment.
 - Coach the team on agile best practices to improve efficiency.
 - Track sprint velocity and ensure iterative delivery of features.
+
 **Contribution to Success:** The Scrum Master drives agile discipline, enabling the team to work efficiently, adapt to changes, and deliver incremental value throughout development.
 
 These roles collectively ensure the Airbnb clone app is delivered on time, meets user needs, and maintains high quality, aligning with the project’s goal of replicating Airbnb’s seamless booking experience.
