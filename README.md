@@ -145,15 +145,15 @@ In a booking system like this Airbnb clone, user-friendly design is paramount be
 ## Color Styles
 Colors form the visual foundation, ensuring brand consistency and accessibility. The palette emphasizes warm accents for CTAs, neutrals for readability, and subtle variations for states (e.g., hover, error).
 
-- **Primary Accent:** #FF5A5F (Airbnb red/pink – used for buttons, links, and highlights to draw attention to interactive elements).
-- **Secondary Accent:** #006CFF (Blue – for secondary actions like "Save" or map pins).
-- **Neutral Background:** #FFFFFF (White – primary page backgrounds for clean, open feel).
-- **Surface/Neutral Light:** #F7F7F7 (Light gray – cards, sections, and subtle dividers).
-- **Neutral Medium:** #484848 (Dark gray – secondary text and borders).
-- **Neutral Dark:** #222222 (Near black – primary headings and icons for high contrast).
-- **Success:** #00A676 (Green – confirmation messages and availability indicators).
-- **Error/Warning:** #FF902B (Orange – alerts, errors in forms).
-- **Shadow/Subtle:** #000000 (10% opacity) – for drop shadows on cards and modals.
+- **Primary Accent:** *#FF5A5F* (Airbnb red/pink – used for buttons, links, and highlights to draw attention to interactive elements).
+- **Secondary Accent:** *#006CFF* (Blue – for secondary actions like "Save" or map pins).
+- **Neutral Background:** *#FFFFFF* (White – primary page backgrounds for clean, open feel).
+- **Surface/Neutral Light:** *#F7F7F7* (Light gray – cards, sections, and subtle dividers).
+- **Neutral Medium:** *#484848* (Dark gray – secondary text and borders).
+- **Neutral Dark:** *#222222* (Near black – primary headings and icons for high contrast).
+- **Success:** *#00A676* (Green – confirmation messages and availability indicators).
+- **Error/Warning:** *#FF902B* (Orange – alerts, errors in forms).
+- **Shadow/Subtle:** *#000000* (10% opacity) – for drop shadows on cards and modals.
 
 These colors achieve WCAG AA contrast ratios (e.g., 4.5:1 for text on backgrounds) and can be implemented as CSS variables in the codebase.
 Typography
