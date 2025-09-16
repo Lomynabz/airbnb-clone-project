@@ -135,12 +135,9 @@ The app's core flow revolves around three primary pages, each designed to guide 
 | :------ | :------ | :------ |
 | **Property Listing View** | A searchable grid or list view displaying available properties based on user queries, serving as the entry point for discovery. | - Infinite scroll or pagination for listings. <br>- Hero search bar with autocomplete. <br>- Card-based layout with thumbnail images, price, rating stars, and location badges. <br>- Filter sidebar (e.g., sliders for price, toggles for amenities). |
 | **Listing Detailed View** | An immersive page providing in-depth information on a selected property to help users evaluate and decide. | - Full-screen image carousel with zoom. <br>- Tabbed sections for description, amenities, house rules, and host info. <br>- Interactive map with nearby attractions. <br>- Review carousel with photos and ratings. <br>- "Book Now" CTA button with availability calendar. |
+| **Simple Checkout View** | A streamlined, multi-step form for finalizing bookings, focusing on minimal distractions to encourage completion. | - Progress indicator for steps (dates, guests, payment). <br>- Calendar picker for check-in/out. <br>- Guest count dropdowns with real-time price updates. <br>- Secure payment form with saved card options. <br>- Summary sidebar showing total cost and terms. |
 
-Simple Checkout ViewA streamlined, multi-step form for finalizing bookings, focusing on minimal distractions to encourage completion.- Progress indicator for steps (dates, guests, payment).
-- Calendar picker for check-in/out.
-- Guest count dropdowns with real-time price updates.
-- Secure payment form with saved card options.
-- Summary sidebar showing total cost and terms.
 These pages will use consistent theming (e.g., a clean sans-serif font like Inter, primary colors: #FF5A5F for accents, neutral grays for backgrounds) to maintain cohesion.
-Importance of User-Friendly Design in a Booking System
+
+### Importance of User-Friendly Design in a Booking System
 In a booking system like this Airbnb clone, user-friendly design is paramount because it directly impacts conversion rates, user retention, and revenue. A cluttered or confusing interface can lead to high cart abandonment—studies show up to 70% of users drop off during checkout due to poor UX. By prioritizing clarity (e.g., prominent CTAs and micro-interactions like loading spinners), we foster trust, especially for high-stakes decisions involving payments and personal data. This not only reduces support queries but also encourages positive reviews and repeat visits, turning one-time browsers into loyal customers. Ultimately, empathetic design aligns with Airbnb's ethos of "belonging anywhere," ensuring the app feels welcoming and reliable for global users.
