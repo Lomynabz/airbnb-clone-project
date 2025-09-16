@@ -186,7 +186,8 @@ To ensure the successful development of the Airbnb clone app, the project team i
 - Oversee project timeline, scope, and resource allocation.
 - Coordinate between team members to ensure alignment on goals and deliverables.
 - Manage risks, resolve blockers, and track progress using tools like Jira or Trello.
-- Communicate updates to stakeholders and ensure milestones are met.
+- Communicate updates to stakeholders and ensure milestones are met. <br>
+
 **Contribution to Success:** The Project Manager ensures the project stays on track, within budget, and meets deadlines, enabling the team to deliver a cohesive app by facilitating collaboration and resolving conflicts efficiently.
 
 #### 2. Frontend Developers
@@ -194,7 +195,8 @@ To ensure the successful development of the Airbnb clone app, the project team i
 - Implement the UI for Property Listing, Detailed, and Checkout Views using React and Tailwind CSS.
 - Ensure responsive design across devices (mobile, tablet, desktop).
 - Integrate APIs for search, authentication, and booking functionality.
-- Optimize client-side performance (e.g., lazy loading images, minimizing re-renders).
+- Optimize client-side performance (e.g., lazy loading images, minimizing re-renders). <br>
+
 **Contribution to Success:** Frontend Developers bring the Figma designs to life, creating an intuitive and visually appealing interface that drives user engagement and retention.
 
 #### 3. Backend Developers
@@ -203,6 +205,7 @@ To ensure the successful development of the Airbnb clone app, the project team i
 - Manage database schema (e.g., PostgreSQL or MongoDB) for listings, bookings, and reviews.
 - Ensure secure authentication (e.g., JWT, OAuth) and data validation.
 - Optimize server-side performance and scalability for high traffic.
+
 **Contribution to Success:** Backend Developers provide the robust, secure infrastructure needed for seamless data handling, ensuring the app is reliable and scalable for global users.
 
 #### 4. Designers
