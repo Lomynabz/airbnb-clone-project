@@ -160,7 +160,7 @@ These colors achieve WCAG AA contrast ratios (e.g., 4.5:1 for text on background
 ### Typography
 Typography ensures readability and hierarchy, using scalable sizes for responsive design. We adopt a sans-serif family for modernity, with weights for emphasis. <br>
 
-<\br> &#9702; **Font Family:** Inter (primary – clean, legible sans-serif; fallback: system-ui or Arial).
+&#9702; **Font Family:** Inter (primary – clean, legible sans-serif; fallback: system-ui or Arial).
 - **Heading 1 (H1):** Font weight: 700 (Bold), Font size: 48px (used for page titles like "Property Listings").
 - **Heading 2 (H2):** Font weight: 600 (Semi-bold), Font size: 32px (section headers, e.g., "Description").
 - **Heading 3 (H3):** Font weight: 600 (Semi-bold), Font size: 24px (subsections, e.g., amenity names).
