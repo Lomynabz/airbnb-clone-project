@@ -1,4 +1,4 @@
-# airbnb-clone-project
+knj# airbnb-clone-project
 
 ## Project Description
 This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
@@ -18,7 +18,7 @@ By completing this project, you will:
 
 ### Requirements
 #### 1. Project Initialization
-- o Set up GitHub repository with proper documentation
+- &#9702;Set up GitHub repository with proper documentation
 Include comprehensive README with project overview
 #### 2. UI/UX Design Planning
 Document design goals and key features
