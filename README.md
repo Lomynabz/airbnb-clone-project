@@ -170,10 +170,10 @@ Typography ensures readability and hierarchy, using scalable sizes for responsiv
 - **Caption/Label:** Font weight: 500 (Medium), Font size: 12px (form labels, footnotes).
 - **Button Text:** Font weight: 600 (Semi-bold), Font size: 16px (CTAs like "Book Now").
 
-
-
 Line heights are set at 1.4–1.6x the font size for readability, with letter spacing adjusted for headings (+0.01em).
-Importance of Identifying Design Properties of a Mockup Design
+
+### Importance of Identifying Design Properties of a Mockup Design
 Identifying design properties like colors and typography from a Figma mockup is crucial for translating visual concepts into functional code, ensuring fidelity to the intended user experience. In a project like this Airbnb clone, inconsistencies in implementation (e.g., mismatched colors leading to poor contrast or off-brand fonts) can erode user trust and increase development revisions. By extracting these elements early, developers can create a design system (e.g., via CSS-in-JS or Tailwind config) that promotes reusability, maintains consistency across pages, and supports scalability for future features. This process also aids collaboration between designers and engineers, reduces QA time, and enhances accessibility—ensuring the app feels professional and intuitive, much like the real Airbnb, while minimizing visual bugs in production.
-Importance of User-Friendly Design in a Booking System
+
+### Importance of User-Friendly Design in a Booking System
 In a booking system like this Airbnb clone, user-friendly design is paramount because it directly impacts conversion rates, user retention, and revenue. A cluttered or confusing interface can lead to high cart abandonment—studies show up to 70% of users drop off during checkout due to poor UX. By prioritizing clarity (e.g., prominent CTAs and micro-interactions like loading spinners), we foster trust, especially for high-stakes decisions involving payments and personal data. This not only reduces support queries but also encourages positive reviews and repeat visits, turning one-time browsers into loyal customers. Ultimately, empathetic design aligns with Airbnb's ethos of "belonging anywhere," ensuring the app feels welcoming and reliable for global users.
