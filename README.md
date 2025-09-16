@@ -18,7 +18,7 @@ By completing this project, you will:
 
 ### Requirements
 #### 1. Project Initialization
-- &#9702;Set up GitHub repository with proper documentation
+&#9702; Set up GitHub repository with proper documentation
 Include comprehensive README with project overview
 #### 2. UI/UX Design Planning
 Document design goals and key features
