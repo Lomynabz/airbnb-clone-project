@@ -18,19 +18,19 @@ By completing this project, you will:
 
 ### Requirements
 #### 1. Project Initialization
-&#7902; Set up GitHub repository with proper documentation
-- &#7902; Include comprehensive README with project overview
+- Set up GitHub repository with proper documentation
+- Include a comprehensive README with a project overview
 #### 2. UI/UX Design Planning
-&#9702; Document design goals and key features
-&#9702; Create page descriptions for main views
-&#9702; Analyze Figma design specifications
-&#9702; Identify color schemes and typography
+- Document design goals and key features
+- Create page descriptions for main views
+- Analyze Figma design specifications
+- Identify color schemes and typography
 #### 3. Roles and Responsibilities
-&#9702; Define team structure and responsibilities
-&#9702; Document each role’s contribution to the project
+- Define team structure and responsibilities
+- Document each role’s contribution to the project
 #### 4. UI Component Patterns
-&#9702; Plan reusable UI components
-&#9702; Document component architecture
+- Plan reusable UI components
+- Document component architecture
 
 ### Best Practices
 Code Organization: Maintain clean, modular code structure
