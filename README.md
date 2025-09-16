@@ -54,8 +54,7 @@ By completing this project, you will:
 - User authentication
 
 ### Primary Pages
-Page
-Description
+| Page | Description |
 Property Listing View
 Grid display of available properties with filters
 Listing Detailed View
