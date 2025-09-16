@@ -156,12 +156,11 @@ Colors form the visual foundation, ensuring brand consistency and accessibility.
 - **Shadow/Subtle:** *#000000* (10% opacity) – for drop shadows on cards and modals.
 
 These colors achieve WCAG AA contrast ratios (e.g., 4.5:1 for text on backgrounds) and can be implemented as CSS variables in the codebase.
-Typography
+
+### Typography
 Typography ensures readability and hierarchy, using scalable sizes for responsive design. We adopt a sans-serif family for modernity, with weights for emphasis.
-
-Font Family: Inter (primary – clean, legible sans-serif; fallback: system-ui or Arial).
-
-Heading 1 (H1): Font weight: 700 (Bold), Font size: 48px (used for page titles like "Property Listings").
+&#7902; Font Family: Inter (primary – clean, legible sans-serif; fallback: system-ui or Arial).
+- **Heading 1 (H1):** Font weight: 700 (Bold), Font size: 48px (used for page titles like "Property Listings").
 Heading 2 (H2): Font weight: 600 (Semi-bold), Font size: 32px (section headers, e.g., "Description").
 Heading 3 (H3): Font weight: 600 (Semi-bold), Font size: 24px (subsections, e.g., amenity names).
 Body Large: Font weight: 400 (Regular), Font size: 18px (descriptive text, reviews).
