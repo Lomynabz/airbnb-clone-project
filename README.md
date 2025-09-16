@@ -133,7 +133,7 @@ The app's core flow revolves around three primary pages, each designed to guide 
 
 | Page Name | Description | Key UI/UX Elements | 
 | :------ | :------ | :------ |
-| **Property Listing View** | A searchable grid or list view displaying available properties based on user queries, serving as the entry point for discovery. | - Infinite scroll or pagination for listings. - Hero search bar with autocomplete. - Card-based layout with thumbnail images, price, rating stars, and location badges. - Filter sidebar (e.g., sliders for price, toggles for amenities). |
+| **Property Listing View** | A searchable grid or list view displaying available properties based on user queries, serving as the entry point for discovery. | - Infinite scroll or pagination for listings. \- Hero search bar with autocomplete. \- Card-based layout with thumbnail images, price, rating stars, and location badges. \- Filter sidebar (e.g., sliders for price, toggles for amenities). |
 
 - Listing Detailed ViewAn immersive page providing in-depth information on a selected property to help users evaluate and decide.- Full-screen image carousel with zoom.
 - Tabbed sections for description, amenities, house rules, and host info.
