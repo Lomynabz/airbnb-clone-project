@@ -131,10 +131,14 @@ These elements will be prototyped using tools like Figma before implementation i
 ### Primary Pages Overview
 The app's core flow revolves around three primary pages, each designed to guide users progressively toward a successful booking. Below is a table summarizing their descriptions and key UI/UX elements:
 
-Page NameDescriptionKey UI/UX ElementsProperty Listing ViewA searchable grid or list view displaying available properties based on user queries, serving as the entry point for discovery.- Infinite scroll or pagination for listings.
-- Hero search bar with autocomplete.
-- Card-based layout with thumbnail images, price, rating stars, and location badges.
-- Filter sidebar (e.g., sliders for price, toggles for amenities).Listing Detailed ViewAn immersive page providing in-depth information on a selected property to help users evaluate and decide.- Full-screen image carousel with zoom.
+| Page Name | Description | Key UI/UX Elements | 
+| :------ | :------: | ------: |
+| **Property Listing View** | A searchable grid or list view displaying available properties based on user queries, serving as the entry point for discovery. | - Infinite scroll or pagination for listings. |
+|    |    | - Hero search bar with autocomplete. |
+|    |    | - Card-based layout with thumbnail images, price, rating stars, and location badges. |
+|    |    | - Filter sidebar (e.g., sliders for price, toggles for amenities). |
+-
+- Listing Detailed ViewAn immersive page providing in-depth information on a selected property to help users evaluate and decide.- Full-screen image carousel with zoom.
 - Tabbed sections for description, amenities, house rules, and host info.
 - Interactive map with nearby attractions.
 - Review carousel with photos and ratings.
