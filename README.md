@@ -39,8 +39,9 @@ By completing this project, you will:
 - **Accessibility:** Follow WCAG guidelines
 - **Documentation:** Keep all project documentation updated
 - **Testing:** Implement unit and integration tests
-### UI/UX Design Planning
-Design Goals
+
+## UI/UX Design Planning
+### Design Goals
 Create intuitive booking flow
 Maintain visual consistency
 Ensure fast loading times
