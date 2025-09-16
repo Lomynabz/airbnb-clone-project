@@ -55,7 +55,7 @@ By completing this project, you will:
 
 ### Primary Pages
 | Page | Description |
-| :------ | ------: |
+| :------ | :------ |
 | Property Listing View | Grid display of available properties with filters |
 | Listing Detailed View | Complete property details with images and booking form |
 | Simple Checkout View | Streamlined payment and booking confirmation |
@@ -78,7 +78,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 
 ## Project Roles and Responsibilities
 | Role | Responsibilities |
-| :------ | ------: |
+| :------ | :------ |
 | Project Manager | Oversees timeline, coordinates team, manages deliverables |
 | Frontend Developers | Implements UI components, ensures responsive design |
 | Backend Developers | Builds APIs, manages database, implements business logic |
@@ -132,11 +132,8 @@ These elements will be prototyped using tools like Figma before implementation i
 The app's core flow revolves around three primary pages, each designed to guide users progressively toward a successful booking. Below is a table summarizing their descriptions and key UI/UX elements:
 
 | Page Name | Description | Key UI/UX Elements | 
-| :------ | :------: | ------: |
-| **Property Listing View** | A searchable grid or list view displaying available properties based on user queries, serving as the entry point for discovery. | - Infinite scroll or pagination for listings. |
-|    |    | - Hero search bar with autocomplete. |
-|    |    | - Card-based layout with thumbnail images, price, rating stars, and location badges. |
-|    |    | - Filter sidebar (e.g., sliders for price, toggles for amenities). |
+| :------ | :------ | :------ |
+| **Property Listing View** | A searchable grid or list view displaying available properties based on user queries, serving as the entry point for discovery. | - Infinite scroll or pagination for listings. - Hero search bar with autocomplete. - Card-based layout with thumbnail images, price, rating stars, and location badges. - Filter sidebar (e.g., sliders for price, toggles for amenities). |
 -
 - Listing Detailed ViewAn immersive page providing in-depth information on a selected property to help users evaluate and decide.- Full-screen image carousel with zoom.
 - Tabbed sections for description, amenities, house rules, and host info.
